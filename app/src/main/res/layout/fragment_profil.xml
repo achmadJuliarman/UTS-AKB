@@ -24,5 +24,12 @@
         android:textSize="30dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
+    <TextView
+        android:layout_marginTop="10dp"
+        android:textAlignment="center"
+        android:text="Email : achmad.10120061@mahasiswa.unikom.ac.id"
+        android:textSize="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
     
 </LinearLayout>
